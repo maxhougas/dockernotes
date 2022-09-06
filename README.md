@@ -15,6 +15,11 @@
   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
   buster stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
+ 
+## Notes
+ - docker exec -it [mycontainer] [shell] https://stackoverflow.com/questions/30172605/how-do-i-get-into-a-docker-containers-shell
+
 ## Resources
  - https://docs.docker.com/get-started/
  - https://labs.play-with-docker.com/#
+ - https://www.geeksforgeeks.org/docker-docker-container-for-node-js/
