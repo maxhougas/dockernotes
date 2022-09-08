@@ -28,3 +28,4 @@
  - https://labs.play-with-docker.com/#
  - https://www.geeksforgeeks.org/docker-docker-container-for-node-js/
  - https://stackoverflow.com/questions/30172605/how-do-i-get-into-a-docker-containers-shell
+ - https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/
